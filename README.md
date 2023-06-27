@@ -1,3 +1,3 @@
 # Processamento-de-Linguagem-Natural
 
-Esse Projetoé responsável por classificar sentimentos do Twitter usando RNN e logo na sequência CNN com o intuito classificar sentimentos do Twitter
+Este projeto tem como objetivo classificar os sentimentos do Twitter utilizando uma combinação de redes neurais recorrentes (RNN) e redes neurais convolucionais (CNN). Através desse sistema, é possível analisar os sentimentos expressos pelos usuários do Twitter e atribuir uma classificação correspondente. A RNN é empregada inicialmente para capturar a sequência de palavras e informações contextuais nos tweets, enquanto a CNN é utilizada para extrair características relevantes e melhorar a precisão da classificação. Ao combinar essas duas abordagens, o projeto oferece uma solução eficaz para a tarefa de classificação de sentimentos no Twitter.
